@@ -60,7 +60,7 @@ Join us at **AfriQuest Tours** and embark on a journey through Ethiopia, where h
    ```
 
 2. **Live** 
-  visit [AfriQuest](https://www.netlify.com/)
+  visit [AfriQuest](https://afriquest.netlify.app/)
 
 3. **Open Locally**  
    Open `index.html` in your browser to view the website. 🌍📱  
